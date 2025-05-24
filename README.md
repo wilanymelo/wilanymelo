@@ -11,7 +11,7 @@
 
 💻 &nbsp; Software developer 
 
-🧑🏻‍💻 &nbsp; IT.
+💻 &nbsp; IT.
 
 
 ##  🛠️ Skills

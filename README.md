@@ -4,8 +4,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Wilany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/jaérverson-melo-2b1702207/)](https://www.linkedin.com/in/jaérverson-melo-2b1702207/)
 
-[![Gmail Badge](https://img.shields.io/badge/jaerversonwagner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaerversonwagner@gmail.com
-)](mailto:jaerversonwagner@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/wilany2014moura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilany2014moura@gmail.com
+)](mailto:wilany2014moura@gmail.com)
 
 ##  About me
 

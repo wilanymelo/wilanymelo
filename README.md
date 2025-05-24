@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Wilany" alt="Wilany's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Wilany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/jaérverson-melo-2b1702207/)](https://www.linkedin.com/in/jaérverson-melo-2b1702207/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Wilany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/wilany-moura-357135308/)](https://www.linkedin.com/in/wilany-moura-357135308/)
 
 [![Gmail Badge](https://img.shields.io/badge/wilany2014moura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilany2014moura@gmail.com
 )](mailto:wilany2014moura@gmail.com)
